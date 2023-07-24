@@ -1,4 +1,4 @@
-# Sistema de gestion | REACT | CRUD | Typescript
+# Sistema de gestion | REACT | CRUD 
 
 ## Índice
 
